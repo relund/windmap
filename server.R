@@ -62,7 +62,7 @@ shinyServer(function(input, output, session) {
 
    imgurl <- reactive({
       i=input$myslider
-      return(paste0("./wind",i+1,".png")) #the path of pictures
+      return(paste0("./img/wind",i+1,".png")) #the path of pictures
    })
 
    output$ui <- renderUI({
