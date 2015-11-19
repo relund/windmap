@@ -1,0 +1,34 @@
+.shiny-progress-container {
+  top: 20%;
+  left: 2%;
+  position: absolute;
+  right: 0;
+  height: 90px;
+  width: 270px;
+  background-color: #eef8ff;
+  margin: 0;
+  padding: 0 0;
+  opacity: 0.85;
+}
+
+/*.shiny-progress-container .progress-text {
+  position: absolute;
+  right: 10px;
+  height: 24px;
+  width: 240px;
+  background-color: #eef8ff;
+  margin: 0px;
+  padding: 2px 3px;
+  opacity: 0.85;
+}
+
+.shiny-progress-container .progress-text .progress-message {
+  padding: 0px 3px;
+  font-weight: bold;
+  font-size: 90%;
+}
+
+.shiny-progress-container .progress-text .progress-detail {
+  padding: 0px 3px;
+  font-size: 80%;
+}*/
