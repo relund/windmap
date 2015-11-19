@@ -5,3 +5,5 @@ forecastioApi.txt
 rsconnect
 lastRun.csv
 www/img/
+post_to_wp.R
+wordpress_post.Rmd

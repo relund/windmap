@@ -40,7 +40,8 @@ getWeatherData<-function(lat, lon, from, to) {
 }
 
 
-# Calculate distance in kilometers between two points
+#' Calculate distance in kilometers between two points \code{(long1,lat1)}
+#' and \code{(long2,lat2)}
 earthDist <- function (long1, lat1, long2, lat2)
 {
    rad <- pi/180
